@@ -89,11 +89,17 @@ I have spoken at plenty of conferences. Here is a short list.
 
 ## More Information
 
+Contact me:
 
 E-mail 💌: [peter.pilgrim@gmail.com](mailto:peter.pilgrim@gmail.com)
-Website: https://www.xenonique.co.uk/
-Blog: https://www.xenonique.co.uk/blog/
-Twitter: https://twitter.com/peter_pilgrim
-Linked-In: https://www.linkedin.com/in/peterpilgrim2000
+
+Website: [https://www.xenonique.co.uk/](https://www.xenonique.co.uk/)
+
+Blog: [https://www.xenonique.co.uk/blog/](https://www.xenonique.co.uk/blog/)
+
+Twitter: [https://twitter.com/peter_pilgrim](https://twitter.com/peter_pilgrim)
+
+Linked-In: [https://www.linkedin.com/in/peterpilgrim2000](https://www.linkedin.com/in/peterpilgrim2000)
+
 
 +PP+ 2022
