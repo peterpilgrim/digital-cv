@@ -1,6 +1,6 @@
 # Peter Pilgrim Digital CV
 
-So you want to work with me in 2022 or beyond? Or perhaps, you are interested in a consultancy?
+So you want to work with me in 2023 or beyond? Or perhaps, you are interested in a consultancy?
 
 Let me introduce myself. I am Peter Pilgrim, long standing software developer with achievements. 
 I am a member of the Java Champions (you have to chosen by others for this honour, in the style of Italian-American crime fiction "Made").
@@ -21,7 +21,7 @@ Did you know that I was the Closing Keynote speaker for QCon London 2022 in Lond
 - I also enjoy building services for customers internal
 - I very much like still technical coding although management seem to take a lot more of my time nowadays
 
-In very short form, my requirements for 2022 are:
+In very short form, my requirements for 2023 are:
 
    * 100% remote (1-2 days in office per month I can live with, remember *fully-remote* or *remote-first*)
    * minimum £100K base salary
@@ -29,7 +29,7 @@ In very short form, my requirements for 2022 are:
      (if you company is stuck on Java 8 JDK 1.8, sorry I am not prepared to contribute to another digital transformation over-promise-and-then-spectacularly-fail project)
    * Cloud-Native 
    * Prospective Client must be using Kubernetes to deploy software to the cloud
-   * Prospective Client must be using Amazon Web Service (AWS), Microsoft Azure , Google Cloud Platform 
+   * Prospective Client must be using Amazon Web Service (AWS), Microsoft Azure or Google Cloud Platform 
 
 
 Read my linkedin profile for accurate information please www.linkedin.com/in/peterpilgrim2000
@@ -59,7 +59,7 @@ I really do care about software technologuy and people who build the great produ
 - I respect junior developers who fight with me understanding dependency injection and Spring Boot and also those flighty engineers who know more Ruby than I do and do hipster programming in VIM.
 - On the other hand, I not a Scala zeolet nor want to be involvedd with the *"one true way"* of writing any code.
 - I experienced pair-programming and saw benefits of culture teams. I write tests and I want them to pass *green*; 
-- I want to cut endless useless meetings of plans about plans, but like Eisenhower planning is the thing we should be all doing. We should be organizing and improving the software architecture of my project; cleaning up and refactoring. 
+- I want to cut endless useless meetings of plans about plans, but like [General D. Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower) [planning is the thing we should be all doing](https://www.eisenhowerlibrary.gov/eisenhowers/quotes). We should be organizing and improving the software architecture of my project; cleaning up and refactoring. 
 - I want to take ownership of code with my team. 
 - I also reach out to other teams for helps, because I too experienced the impractical issues around "silo-team" thinking.
 - I need to work in an environment and code-base that considers these things as necessary and valuable.
@@ -67,6 +67,8 @@ I really do care about software technologuy and people who build the great produ
 
 
 ### I speak
+
+At Conferences and User Group Meet-ups.
 
 I was so proud and honoured to be chosen to speak at [QCon London 2022](https://qconlondon.com/london2022/speakers/peter-pilgrim). I performed this non-technical talk called **Software Engineering Towards Sustainable Empathic Capacities**. It was the [Closing Keynote](https://qconlondon.com/london2022/keynote/closing-keynote) of the conference too.
 
@@ -84,7 +86,7 @@ I have spoken at plenty of conferences. Here is a short list.
   * Scala Exchange
  
 
- I founded a London group called the *Java Web User Group* (JAVAWUG), which ran between 2004 and 2011.
+Back in the day, I founded a London technoology group called the *Java Web User Group* (JAVAWUG), which ran between 2004 and 2011.
 
 
 ## More Information
