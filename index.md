@@ -21,7 +21,7 @@ Did you know that I was the [Closing Keynote speaker for QCon London 2022](https
 - I also enjoy building services for customers internally
 - I very much like still technical coding although management seem to take a lot more of my time nowadays
 
-In a nutshell, my requirements for 2023 are:
+In a nutshell, my requirements for *2023* are:
 
    * 100% remote (1-2 days in office per month I can live with, remember *fully-remote* or *remote-first*)
    * minimum £100K base salary
@@ -36,6 +36,27 @@ Please read my linkedin profile for accurate information www.linkedin.com/in/pet
 
 
 PS: I will _NOT_ work for directly or indirectly for *gambling*, *betting* and *gaming* clients.
+
+
+### Recent Technologies
+
+Here are my last two engagements inside Cognizant:
+
+
+Overview: Java Developer Consultant, Assistant Digital
+
+Technologies: Java 17, Open JDK, Kubernetes, Rancher, Mockito, JUnit 5, MongoDB (Robo 3T), Eclipse Jetty, JAX-RS for 
+RESTful Services, Kafka Broker, Quartz, Bazel (Buck)
+
+Summary: Working for Department Work & Pensions (DWP) and Universal Credit project enhancements.
+
+
+Overview: Developer Consultant, Technical Lead
+
+Technologies: Java 11, Web CMS, JAX_RS, Gradle and Spring Boot 
+
+Summary: Working for Her Majesty’s Passport Office (HMPO) and delivering EZRI Guidance tool and Overseas Casework Management Tool using the tech stack Java 8 / Java 11, Open JDK, Java CMS 7.3/7.4, Scala 2.13, Kubernetes v1.21, Helm 3.54, AWS Console
+
 
 
 
