@@ -21,10 +21,11 @@ Did you know that I was the [Closing Keynote speaker for QCon London 2022](https
 - I also enjoy building services for customers internally
 - I very much like still technical coding although management seem to take a lot more of my time nowadays
 
-In a nutshell, my requirements for *2023* are:
+My requirements for *2023* are:
 
-   * 100% remote (1-2 days in office per month I can live with, remember *fully-remote* or *remote-first*)
-   * minimum £100K base salary
+   * 100% remote (1-2 days in office per month I can live with)
+   * £90K to £110K permanent base salary 
+   * Contracting at least £550 per day Inside IR35 (Umbrella of my choice: Lucy's Clarity is my PSL)
    * Java 17 preferred, Java 11 LTS is very acceptable 
      (if you company is stuck on Java 8 JDK 1.8, sorry I am not prepared to contribute to another digital transformation over-promise-and-then-spectacularly-fail project)
    * Cloud-Native [a nice definition and explanation from Microsoft](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
@@ -34,6 +35,11 @@ In a nutshell, my requirements for *2023* are:
 
 Please read my linkedin profile for accurate information www.linkedin.com/in/peterpilgrim2000
 
+So in a nutshell:
+
+I am looking for a permanent base salary from £90K to £110K in 2023.
+I will also consider contract roles for at least 6 months from £550 per day Inside IR35.
+I stopped contracting December 2020 and I closed my Limited Company. 
 
 PS: I will _NOT_ work for directly or indirectly for *gambling*, *betting* and *gaming* clients.
 
